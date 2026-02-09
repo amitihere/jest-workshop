@@ -48,4 +48,5 @@ Prevents negative or invalid order amounts from being processed, ensuring the pr
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
+Understood how to manually write my own ci pipeline which was very helpful.
 
