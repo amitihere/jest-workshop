@@ -41,8 +41,8 @@ Prevents negative or invalid order amounts from being processed, ensuring the pr
 ---
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
-- GitHub Actions Run URL:
+- Did CI pass successfully? (Yes / No) : Yes
+- GitHub Actions Run URL: https://github.com/amitihere/jest-workshop/actions/runs/21826195223
 
 ---
 
