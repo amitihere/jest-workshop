@@ -1,8 +1,8 @@
 const { calculateFinalAmount } = require("../src/pricing");
 
-test("example: sanity check", () => {
-  expect(1 + 1).toBe(2);
-});
+// test("example: sanity check", () => {
+//   expect(1 + 1).toBe(2);
+// });
 
 test("Check for invalid sub total", () => {
   expect(() => calculateFinalAmount(-100, "DISCOUNT")).toThrow(
@@ -19,5 +19,5 @@ test("Check for FLAT50 coupon", () => {
   expect(calculateFinalAmount(100, "FLAT50")).toBe(50);
 });
 test("Check for case insensitivity of coupon", () => {
-  expect(calculateFinalAmount(100, "save10")).toBe(90);
+  expect(calculateFinalAmount(100, "flat50")).toBe(50);
 });

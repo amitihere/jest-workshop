@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name: Amiti Aneesh
+- Roll Number: 2024-B-05062007
+- GitHub Username: amitihere
 
 ---
 
@@ -11,8 +11,9 @@
 
 List each test you wrote and briefly explain **what bug or regression it prevents**.
 
-### 1. Test Name:
+### 1. Test Name: 
 **What it protects against:**  
+
 
 ---
 
